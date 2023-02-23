@@ -1,0 +1,17 @@
+@media screen and (max-width:850px){
+    .jobs__item{
+        display: flex;
+        flex-direction: column;
+    }
+    .jobs__item__left-column{
+        margin-bottom: 10px;
+    }
+}
+@media screen and (max-width:550px){
+   header{
+    width:auto;
+    background-repeat: no-repeat;
+   }
+}
+
+
